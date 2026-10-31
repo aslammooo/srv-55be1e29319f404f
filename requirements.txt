@@ -2,7 +2,3 @@ discord.py>=2.4
 tzdata
 cryptography
 pillow
-PIL
-PIL-python
-discord.py
-pynacl
