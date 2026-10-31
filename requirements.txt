@@ -3,3 +3,4 @@ tzdata
 cryptography
 pillow
 requests
+pynacl
